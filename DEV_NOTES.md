@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Reviewed codebase, identified areas for improvement
 - Reorganised test fixtures
+
+## 2026-04-29
+- Added basic retry logic for network requests
+- Tidied up project structure
