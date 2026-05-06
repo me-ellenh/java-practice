@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added basic retry logic for network requests
 - Tidied up project structure
+
+## 2026-05-06
+- Added type hints to helper functions
