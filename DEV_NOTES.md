@@ -32,3 +32,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Verified API endpoint response schema
 - Bumped patch version
+
+## 2026-05-13
+- Added type hints to helper functions
